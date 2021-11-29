@@ -1,0 +1,4047 @@
+fileFormatVersion: 2
+guid: f4ba2721d39f05340b71645d32ccdf75
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.002
+    100004: Bone.003
+    100006: Bone.004
+    100008: Bone.004_end
+    100010: Bone.005
+    100012: Bone.005_end
+    100014: Bone.006
+    100016: Bone.006_end
+    100018: Bone.007
+    100020: Bone.007_end
+    100022: Bone.008
+    100024: Bone.008_end
+    100026: Bone.009
+    100028: Bone.009_end
+    100030: Bone.010
+    100032: Bone.011
+    100034: Bone.012
+    100036: Bone.013
+    100038: Bone.014
+    100040: Bone.015
+    100042: Bone.016
+    100044: Bone.016_end
+    100046: Bone.017
+    100048: Bone.018
+    100050: Bone.018_end
+    100052: Bone.019
+    100054: Bone.020
+    100056: Bone.020_end
+    100058: Bone.021
+    100060: Bone.022
+    100062: Bone.022_end
+    100064: Bone.023
+    100066: Bone.024
+    100068: Bone.024_end
+    100070: Bone.025
+    100072: Bone.025_end
+    100074: Bone_end
+    100076: Circle
+    100078: Circle.000
+    100080: Circle.001
+    100082: Circle.002
+    100084: Circle.003
+    100086: Circle.004
+    100088: Circle.005
+    100090: Circle.006
+    100092: Circle.007
+    100094: Circle.008
+    100096: Circle.009
+    100098: Circle.010
+    100100: Circle.011
+    100102: Circle.012
+    100104: Circle.013
+    100106: Circle.014
+    100108: Circle.015
+    100110: Circle.016
+    100112: Circle.017
+    100114: Circle.018
+    100116: Circle.019
+    100118: Circle.020
+    100120: Circle.021
+    100122: Circle.022
+    100124: Circle.023
+    100126: Circle.024
+    100128: Circle.025
+    100130: Circle.026
+    100132: Circle.027
+    100134: Circle.028
+    100136: Circle.029
+    100138: Circle.030
+    100140: //RootNode
+    100142: Head
+    100144: Head.002
+    100146: Head.002_end
+    100148: Root Node
+    400000: Bone
+    400002: Bone.002
+    400004: Bone.003
+    400006: Bone.004
+    400008: Bone.004_end
+    400010: Bone.005
+    400012: Bone.005_end
+    400014: Bone.006
+    400016: Bone.006_end
+    400018: Bone.007
+    400020: Bone.007_end
+    400022: Bone.008
+    400024: Bone.008_end
+    400026: Bone.009
+    400028: Bone.009_end
+    400030: Bone.010
+    400032: Bone.011
+    400034: Bone.012
+    400036: Bone.013
+    400038: Bone.014
+    400040: Bone.015
+    400042: Bone.016
+    400044: Bone.016_end
+    400046: Bone.017
+    400048: Bone.018
+    400050: Bone.018_end
+    400052: Bone.019
+    400054: Bone.020
+    400056: Bone.020_end
+    400058: Bone.021
+    400060: Bone.022
+    400062: Bone.022_end
+    400064: Bone.023
+    400066: Bone.024
+    400068: Bone.024_end
+    400070: Bone.025
+    400072: Bone.025_end
+    400074: Bone_end
+    400076: Circle
+    400078: Circle.000
+    400080: Circle.001
+    400082: Circle.002
+    400084: Circle.003
+    400086: Circle.004
+    400088: Circle.005
+    400090: Circle.006
+    400092: Circle.007
+    400094: Circle.008
+    400096: Circle.009
+    400098: Circle.010
+    400100: Circle.011
+    400102: Circle.012
+    400104: Circle.013
+    400106: Circle.014
+    400108: Circle.015
+    400110: Circle.016
+    400112: Circle.017
+    400114: Circle.018
+    400116: Circle.019
+    400118: Circle.020
+    400120: Circle.021
+    400122: Circle.022
+    400124: Circle.023
+    400126: Circle.024
+    400128: Circle.025
+    400130: Circle.026
+    400132: Circle.027
+    400134: Circle.028
+    400136: Circle.029
+    400138: Circle.030
+    400140: //RootNode
+    400142: Head
+    400144: Head.002
+    400146: Head.002_end
+    400148: Root Node
+    2300000: Circle
+    2300002: Circle.000
+    2300004: Circle.001
+    2300006: Circle.002
+    2300008: Circle.003
+    2300010: Circle.004
+    2300012: Circle.005
+    2300014: Circle.006
+    2300016: Circle.007
+    2300018: Circle.008
+    2300020: Circle.009
+    2300022: Circle.010
+    2300024: Circle.011
+    2300026: Circle.012
+    2300028: Circle.013
+    2300030: Circle.014
+    2300032: Circle.015
+    2300034: Circle.016
+    2300036: Circle.017
+    2300038: Circle.018
+    2300040: Circle.019
+    2300042: Circle.020
+    2300044: Circle.021
+    2300046: Circle.022
+    2300048: Circle.023
+    2300050: Circle.024
+    2300052: Circle.025
+    2300054: Circle.026
+    2300056: Circle.027
+    2300058: Circle.028
+    2300060: Circle.029
+    2300062: Circle.030
+    2300064: Root Node
+    3300000: Circle
+    3300002: Circle.000
+    3300004: Circle.001
+    3300006: Circle.002
+    3300008: Circle.003
+    3300010: Circle.004
+    3300012: Circle.005
+    3300014: Circle.006
+    3300016: Circle.007
+    3300018: Circle.008
+    3300020: Circle.009
+    3300022: Circle.010
+    3300024: Circle.011
+    3300026: Circle.012
+    3300028: Circle.013
+    3300030: Circle.014
+    3300032: Circle.015
+    3300034: Circle.016
+    3300036: Circle.017
+    3300038: Circle.018
+    3300040: Circle.019
+    3300042: Circle.020
+    3300044: Circle.021
+    3300046: Circle.022
+    3300048: Circle.023
+    3300050: Circle.024
+    3300052: Circle.025
+    3300054: Circle.026
+    3300056: Circle.027
+    3300058: Circle.028
+    3300060: Circle.029
+    3300062: Circle.030
+    3300064: Root Node
+    4300000: Circle.003
+    4300002: Circle.004
+    4300004: Circle.002
+    4300006: Circle.001
+    4300008: Circle.011
+    4300010: Circle.012
+    4300012: Circle.008
+    4300014: Circle.009
+    4300016: Circle.010
+    4300018: Circle.018
+    4300020: Circle.019
+    4300022: Circle.020
+    4300024: Circle.022
+    4300026: Circle.023
+    4300028: Circle.024
+    4300030: Circle.014
+    4300032: Circle.015
+    4300034: Circle.016
+    4300036: Root Node
+    4300038: Circle.021
+    4300040: Circle.017
+    4300042: Circle.013
+    4300044: Circle.000
+    4300046: Circle.007
+    4300048: Circle.005
+    4300050: Circle
+    4300052: Circle.029
+    4300054: Circle.030
+    4300056: Circle.028
+    4300058: Circle.025
+    4300060: Circle.026
+    4300062: Circle.027
+    4300064: Circle.006
+    7400000: Cut
+    7400002: Idle
+    7400004: Walk
+    7400006: Armature|ArmatureAction
+    7400008: Armature|ArmatureAction.001
+    7400010: Armature|ArmatureAction.002
+    7400012: Armature|ArmatureAction.003
+    7400014: Armature|Circle.026Action
+    7400016: Circle.006|Circle.026Action
+    7400018: Circle.028|Circle.026Action
+    7400020: Circle.029|Circle.026Action
+    7400022: Circle|Circle.026Action
+    7400024: Circle.030|Circle.026Action
+    7400026: Circle.027|Circle.026Action
+    7400028: Circle.025|Circle.026Action
+    7400030: Circle.004|Circle.026Action
+    7400032: Circle.003|Circle.026Action
+    7400034: Circle.020|Circle.026Action
+    7400036: Circle.019|Circle.026Action
+    7400038: Circle.018|Circle.026Action
+    7400040: Circle.024|Circle.026Action
+    7400042: Circle.023|Circle.026Action
+    7400044: Circle.022|Circle.026Action
+    7400046: Circle.016|Circle.026Action
+    7400048: Circle.015|Circle.026Action
+    7400050: Circle.014|Circle.026Action
+    7400052: Circle.012|Circle.026Action
+    7400054: Circle.011|Circle.026Action
+    7400056: Circle.001|Circle.026Action
+    7400058: Circle.010|Circle.026Action
+    7400060: Circle.009|Circle.026Action
+    7400062: Circle.008|Circle.026Action
+    7400064: Root Node|Circle.026Action
+    7400066: Circle.021|Circle.026Action
+    7400068: Circle.017|Circle.026Action
+    7400070: Circle.013|Circle.026Action
+    7400072: Circle.000|Circle.026Action
+    7400074: Circle.007|Circle.026Action
+    7400076: Circle.005|Circle.026Action
+    7400078: Circle.002|Circle.026Action
+    7400080: Circle.026|Circle.026Action
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cut
+      takeName: Cut
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.029|Circle.026Action
+      takeName: Circle.029|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle|Circle.026Action
+      takeName: Circle|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.030|Circle.026Action
+      takeName: Circle.030|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.027|Circle.026Action
+      takeName: Circle.027|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.025|Circle.026Action
+      takeName: Circle.025|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.004|Circle.026Action
+      takeName: Circle.004|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.003|Circle.026Action
+      takeName: Circle.003|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.020|Circle.026Action
+      takeName: Circle.020|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.019|Circle.026Action
+      takeName: Circle.019|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.018|Circle.026Action
+      takeName: Circle.018|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.024|Circle.026Action
+      takeName: Circle.024|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.023|Circle.026Action
+      takeName: Circle.023|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.022|Circle.026Action
+      takeName: Circle.022|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.016|Circle.026Action
+      takeName: Circle.016|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.015|Circle.026Action
+      takeName: Circle.015|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.014|Circle.026Action
+      takeName: Circle.014|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.012|Circle.026Action
+      takeName: Circle.012|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Circle.011|Circle.026Action
+      takeName: Circle.011|Circle.026Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone_end
+        weight: 1
+      - path: Bone/Root Node
+        weight: 1
+      - path: Bone/Root Node/Circle.000
+        weight: 1
+      - path: Bone/Root Node/Circle.005
+        weight: 1
+      - path: Bone/Root Node/Circle.007
+        weight: 1
+      - path: Bone/Root Node/Circle.013
+        weight: 1
+      - path: Bone/Root Node/Circle.017
+        weight: 1
+      - path: Bone/Root Node/Circle.021
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Circle.002
+        weight: 1
+      - path: Bone.002/Bone.003/Circle.004
+        weight: 1
+      - path: Bone.002/Circle.003
+        weight: 1
+      - path: Bone.010
+        weight: 1
+      - path: Bone.010/Bone.015
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Bone.016_end
+        weight: 1
+      - path: Bone.010/Bone.015/Bone.016/Circle.012
+        weight: 1
+      - path: Bone.010/Bone.015/Circle.011
+        weight: 1
+      - path: Bone.010/Circle.001
+        weight: 1
+      - path: Bone.011
+        weight: 1
+      - path: Bone.011/Bone.017
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Bone.018_end
+        weight: 1
+      - path: Bone.011/Bone.017/Bone.018/Circle.010
+        weight: 1
+      - path: Bone.011/Bone.017/Circle.009
+        weight: 1
+      - path: Bone.011/Circle.008
+        weight: 1
+      - path: Bone.012
+        weight: 1
+      - path: Bone.012/Bone.019
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Bone.020_end
+        weight: 1
+      - path: Bone.012/Bone.019/Bone.020/Circle.020
+        weight: 1
+      - path: Bone.012/Bone.019/Circle.019
+        weight: 1
+      - path: Bone.012/Circle.018
+        weight: 1
+      - path: Bone.013
+        weight: 1
+      - path: Bone.013/Bone.021
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Bone.022_end
+        weight: 1
+      - path: Bone.013/Bone.021/Bone.022/Circle.024
+        weight: 1
+      - path: Bone.013/Bone.021/Circle.023
+        weight: 1
+      - path: Bone.013/Circle.022
+        weight: 1
+      - path: Bone.014
+        weight: 1
+      - path: Bone.014/Bone.023
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Bone.024_end
+        weight: 1
+      - path: Bone.014/Bone.023/Bone.024/Circle.016
+        weight: 1
+      - path: Bone.014/Bone.023/Circle.015
+        weight: 1
+      - path: Bone.014/Circle.014
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Bone.005
+        weight: 1
+      - path: Head/Bone.005/Bone.005_end
+        weight: 1
+      - path: Head/Bone.005/Circle.026
+        weight: 1
+      - path: Head/Bone.006
+        weight: 1
+      - path: Head/Bone.006/Bone.006_end
+        weight: 1
+      - path: Head/Bone.006/Circle.025
+        weight: 1
+      - path: Head/Bone.007
+        weight: 1
+      - path: Head/Bone.007/Bone.007_end
+        weight: 1
+      - path: Head/Bone.007/Circle.027
+        weight: 1
+      - path: Head/Bone.008
+        weight: 1
+      - path: Head/Bone.008/Bone.008_end
+        weight: 1
+      - path: Head/Bone.008/Circle.029
+        weight: 1
+      - path: Head/Bone.009
+        weight: 1
+      - path: Head/Bone.009/Bone.009_end
+        weight: 1
+      - path: Head/Bone.009/Circle.030
+        weight: 1
+      - path: Head/Bone.025
+        weight: 1
+      - path: Head/Bone.025/Bone.025_end
+        weight: 1
+      - path: Head/Bone.025/Circle.028
+        weight: 1
+      - path: Head/Circle
+        weight: 1
+      - path: Head/Head.002
+        weight: 1
+      - path: Head/Head.002/Circle.006
+        weight: 1
+      - path: Head/Head.002/Head.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

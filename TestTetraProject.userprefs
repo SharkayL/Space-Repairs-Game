@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScenarioController.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scenario\Scenario1.cs" Line="5" Column="2" />
+      <File FileName="Assets\EnememyEntity.cs" Line="1" Column="1" />
+      <File FileName="Assets\PowerHealth_UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\FixUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScenarioController.cs" Line="34" Column="4" />
+      <File FileName="Assets\ArenaProvider.cs" Line="136" Column="4" />
+      <File FileName="Assets\TileDriver.cs" Line="1" Column="1" />
+      <File FileName="Assets\EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\EnemyQue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Fight_Bot.cs" Line="1" Column="1" />
+      <File FileName="Assets\burner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cut_Bot.cs" Line="1" Column="1" />
+      <File FileName="Assets\TeleObj.cs" Line="1" Column="1" />
+      <File FileName="Assets\Music.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\DepoObj.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scenario\Scenario2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scenario\Scenario0.cs" Line="6" Column="22" />
+      <File FileName="Assets\Resources\Scenario\Scenario3.cs" Line="1" Column="1" />
+      <File FileName="Assets\BulletPool.cs" Line="11" Column="26" />
+      <File FileName="Assets\TutorialStep1TriggerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scenario\TutScenario.cs" Line="5" Column="2" />
+      <File FileName="Assets\PowerGen.cs" Line="10" Column="2" />
+      <File FileName="Assets\TutorialControllerScript.cs" Line="15" Column="18" />
+      <File FileName="Assets\FailBox.cs" Line="24" Column="1" />
+      <File FileName="Assets\MenuScript.cs" Line="23" Column="2" />
+      <File FileName="Assets\TutorialStep3TriggerScript.cs" Line="19" Column="31" />
+      <File FileName="Assets\TutorialStep2TriggerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\WinBox.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
